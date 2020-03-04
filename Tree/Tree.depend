@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1576643656 source:f:\tree\main.c
+	"head.h"
+
+1576643456 f:\tree\head.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1576643476 source:f:\tree\lib.c
+	"head.h"
+
+1577270522 source:d:\kuliah\smt 3\struktur data\tree\main.c
+	"head.h"
+
+1577270469 d:\kuliah\smt 3\struktur data\tree\head.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1577270574 source:d:\kuliah\smt 3\struktur data\tree\lib.c
+	"head.h"
+
+1577283794 source:c:\users\laksmana iska\documents\tree\lib.c
+	"head.h"
+
+1577282506 c:\users\laksmana iska\documents\tree\head.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1577283728 source:c:\users\laksmana iska\documents\tree\main.c
+	"head.h"
+
+1577283794 source:c:\users\asus\downloads\tree\tree\lib.c
+	"head.h"
+
+1577282506 c:\users\asus\downloads\tree\tree\head.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1577334579 source:c:\users\asus\downloads\tree\tree\main.c
+	"head.h"
+
